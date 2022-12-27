@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  *
- * @author npks
+ * @author npk
  */
 public class DataMgr {
     List<Teacher> lstTeachers;

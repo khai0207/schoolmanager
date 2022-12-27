@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author npks
+ * @author npk
  */
 public class Subject {
     String subjectName;
