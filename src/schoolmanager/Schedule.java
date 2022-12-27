@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author npk
+ * @author npks
  */
 public class Schedule {
     static List<Teacher> lstTeachers;

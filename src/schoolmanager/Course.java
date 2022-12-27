@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author npk
+ * @author npks
  */
 public class Course {
     int id;
